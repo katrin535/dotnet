@@ -6,5 +6,5 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 
 ## Решение:
-1. Блок-схема решения представлена в файле Decision.drawio.png
-2. Код программы описан в Program.cs
+1. Блок-схема решения представлена в файле [Decision.drawio.png](Decision.drawio.png)
+2. Код программы описан в [Program.cs](Program.cs)
