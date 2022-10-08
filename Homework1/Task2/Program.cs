@@ -4,7 +4,14 @@ a = 5; b = 7 -> max = 7
 a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3*/
 
-int a = 5, b = 7;
+Console.Write("Введите число a: ");
+string N = Console.ReadLine();
+int a = Convert.ToInt32(N);
+
+Console.Write("Введите число b: ");
+string K = Console.ReadLine();
+int b = Convert.ToInt32(K);
+
 int max = a;
 int min = a;
 
