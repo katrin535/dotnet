@@ -8,5 +8,5 @@
 7 -> четное
 
 ## Решение:
-1. Блок-схема решения представлена в файле [Decision3.drawio.png](Decision3.drawio.png)
-2. Код программы описан в [Program.cs](Program.cs)
+1. Блок-схема решения представлена в файле [Decision3.drawio.png](Decision3.drawio.png).
+2. Код программы описан в [Program.cs](Program.cs).
